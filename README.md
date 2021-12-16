@@ -1,5 +1,9 @@
 # BellyButton BioDiversity 
 
+
+![belly_button_bacteria](https://user-images.githubusercontent.com/85518330/146302120-e3e95384-9960-4653-a62a-51d3c7042b43.jpg)
+
+
 ## Project Overview
 
 In this module we learnt to use  Plotly.js, a JavaScript data visualization library, to create an interactive data visualization for the web. 
